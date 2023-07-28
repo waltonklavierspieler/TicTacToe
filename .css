@@ -1,1 +1,13 @@
+body {
+	background: rgb(209, 235, 228);
+	font-family: "Helvetica-Bold";
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.gridSquare {
+	border: solid black 1px;
+}
 
